@@ -15,7 +15,7 @@
 
 - 👨‍💻 Portfolio [https://devvishal.pythonanywhere.com/](https://devvishal.pythonanywhere.com/)
 
-- 💬 Ask me about **Python and APIs**
+- 💬 Ask me about **Python, Golang and APIs**
 
 - 📫 How to reach me **developervishal10@gmail.com**
 
