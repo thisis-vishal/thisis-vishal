@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thisisvish4l" target="blank"><img src="https://img.shields.io/twitter/follow/thisisvish4l?logo=twitter&style=for-the-badge" alt="thisisvish4l" /></a> </p>
 
-- 🔭 I’m currently working on [Email Tracker](https://github.com/thisis-vishal/Email-Tracking)
+- 🔭 I’m currently working on [Code Chakra](https://codechakra.com)
 
 - 🌱 I’m currently learning **Go**
 
