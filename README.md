@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on [Email Tracker](https://github.com/thisis-vishal/Email-Tracking)
+- 👯 I’m looking to collaborate.
 
 - 👨‍💻 Portfolio [https://devvishal.pythonanywhere.com/](https://devvishal.pythonanywhere.com/)
 
